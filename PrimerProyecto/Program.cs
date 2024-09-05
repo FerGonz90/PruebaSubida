@@ -11,6 +11,7 @@ namespace PrimerProyecto
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Tincho");
+            Console.WriteLine("Hola Fer");
             Console.ReadKey();
         }
     }
