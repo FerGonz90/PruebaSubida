@@ -12,6 +12,7 @@ namespace PrimerProyecto
         {
             Console.WriteLine("Hola Tincho");
             Console.WriteLine("Hola Fer");
+            Console.WriteLine("Funcionó todo OK");
             Console.ReadKey();
         }
     }
